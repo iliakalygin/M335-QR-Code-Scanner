@@ -1,1 +1,1 @@
-# QR-Code-Scanne-App
+# QR-Code-Scanner-App
